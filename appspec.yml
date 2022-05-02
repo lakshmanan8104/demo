@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \
+  - source: \test
     destination: c:\inetpub\wwwroot\demo
 file_exists_behavior: OVERWRITE
 hooks:

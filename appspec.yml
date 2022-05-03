@@ -2,7 +2,7 @@ version: 0.0
 os: windows
 files:
   - source: \test.html
-    destination: c:\inetpub\wwwroot\demo
+    destination: c:\inetpub\wwwroot\demo\demo
 file_exists_behavior: OVERWRITE
 hooks:
   BeforeInstall:
